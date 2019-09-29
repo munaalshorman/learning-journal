@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/munaalshorman/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Growth mindset: #
+it is away to thinking positivly about your self .You belive that you have appility to learn any thing new and you can succed by keep trying.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**reminders to my self to be growth minset:**
+1. It's worth to do and you deserve the best
+1. you can and you will
+1. keep trying .try another method
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+*my name is muna alshorman im computer engineering im 32 years old*
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+  [my github](https://munaalshorman.github.io/learning-journal/)
+  
+  
+ ![Growth mindset](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw3.chabad.org%2Fmedia%2Fimages%2F1095%2FppnR10958944.jpg&imgrefurl=https%3A%2F%2Fwww.chabad.org%2FtheJewishWoman%2Farticle_cdo%2Faid%2F4422505%2Fjewish%2FThe-Power-of-the-Mind-to-Create-Blessings.htm&docid=rKPG3ybcCD9FnM&tbnid=uXIQGyqwORa7zM%3A&vet=10ahUKEwj3-uW1zfXkAhWvlYsKHduxB58QMwh9KAAwAA..i&w=685&h=340&bih=657&biw=1366&q=mind&ved=0ahUKEwj3-uW1zfXkAhWvlYsKHduxB58QMwh9KAAwAA&iact=mrc&uact=8)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/munaalshorman/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
