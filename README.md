@@ -15,7 +15,7 @@ it is away to thinking positivly about your self .You belive that you have appil
   [my github](https://munaalshorman.github.io/learning-journal/)
   
   
- ![Growth mindset](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiVpZiT0fXkAhVD_KQKHWcND_YQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fmachine-reads-your-mind-talks%2F&psig=AOvVaw2TKItFN3h9swTkAJaDwbza&ust=1569831830109000)
+ ![Growth mindset](https://singularityhub.com/wp-content/uploads/2018/11/multicolored-brain-connections_shutterstock_347864354-1068x601.jpg)
  
  
  contact us mail:munaalshorman123@gmail.com
