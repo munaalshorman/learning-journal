@@ -6,7 +6,7 @@
 ### table of contents
 
 | File name     | link                                 |
-| -------------| ------------------------------------- |
+| :------------- | -------------------------------------:|
 | README         | [README](README.md)                   |
 | summary-article| [summary-article](summary-article.md) |
 | summary-git-tut| [summary git](summary-git-tut.md)     |
