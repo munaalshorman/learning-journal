@@ -5,11 +5,12 @@
 
 ### table of contents
 
-| File name | describtion |link
-|--------------|--------------|-----------|
+| File name | describtion |link|
+|-----------|-------------|-----------|
 |README.md | Introduction|[README](README.md)|
-|summary-article.md|summary about using markdown|[summary-article](summary-article)
+|summary-article.md|summary about using markdown|[summary-article](summary-article.md)
 |using-terminal.md|summary about terminal|[using-terminal](using-terminal.md)
+|summary-git-.md|summary about git |[summary git](summary-git-tut.md)|
 # Growth mindset: 
 It is away to thinking positivly about your self .You belive that you have appility to learn any thing new and you can successed by keep trying.
 
