@@ -5,7 +5,7 @@
 
 ### table of contents
 
-| File name     | |link                                  |
+| File name     | link                                 |
 | ------------- | ------------------------------------- |
 |README         | [README](README.md)                   |
 |summary-article|[summary-article](summary-article.md) |
