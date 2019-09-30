@@ -6,7 +6,7 @@
 ### table of contents
 
 | File name     | describtion                 |link                                  |
-|:--------------|:---------------------------:|-------------------------------------:|
+| ------------- | --------------------------- | ------------------------------------- |
 |README         | Introduction                |[README](README.md)                   |
 |summary-article|summary about using markdown |[summary-article](summary-article.md) |
 |summary-git-tut|summary about git            |[summary git](summary-git-tut.md)     |
