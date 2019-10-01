@@ -5,11 +5,15 @@
 
 ### table of contents
 
-| File name     | link                                 |
-| :------------- | -------------------------------------:|
+| File name     | link                                   |
+|:---------------| ---------------:|
 | README         | [README](README.md)                   |
 | summary-article| [summary-article](summary-article.md) |
 | summary-git-tut| [summary git](summary-git-tut.md)     |
+| using-terminal | [using-terminal](using-terminal.md)   |
+| chapter18      | [chapter18](chapter18.md)             |
+| read5          | [read5](read5.md)                    |
+| read6          | [read6](read6.md)                    |
 # Growth mindset: 
 It is away to thinking positivly about your self .You belive that you have appility to learn any thing new and you can successed by keep trying.
 
