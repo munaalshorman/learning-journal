@@ -14,6 +14,8 @@
 | chapter18      | [chapter18](chapter18.md)             |
 | read5          | [read5](read5.md)                    |
 | read6          | [read6](read6.md)                    |
+|read7           | [read7.md](read7.md)|
+|read8         | [read8.md](read8.md)|
 # Growth mindset: 
 It is away to thinking positivly about your self .You belive that you have appility to learn any thing new and you can successed by keep trying.
 
